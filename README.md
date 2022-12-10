@@ -18,6 +18,12 @@ TOSTER - Two One-Sided Tests (TOST) Equivalence Testing
 You can install TOSTER in R using: install.packages('TOSTER'). 
 Alternatively, you can download a spreadsheet to perform these calculations: https://osf.io/qzjaj/
 
+ANOVA_power: Superpower (version 0.1.2)  - Simulation function used to estimate power  
+https://shiny.ieis.tue.nl/anova_power/
+
+
+
+
 ### The following software is used 
 G*Power - Conduct statistical power analysis and calculate probabilities as well as some more test cases  
            ( https://download.cnet.com/G-Power/3000-2054_4-10647044.html )
@@ -73,7 +79,7 @@ If you have the time, it is recommended that you complete my course 'Improving Y
    
                 
                 
-Eindhoven University of Technology
+### Eindhoven University of Technology
 
 Eindhoven University of Technology (TU/e) is a young university, founded in 1956 by industry, local government and academia. Today, their spirit of collaboration is
 still at the heart of the university community. We foster an open culture where everyone feels free to exchange ideas and take initiatives.
