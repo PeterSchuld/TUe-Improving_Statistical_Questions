@@ -19,9 +19,9 @@ You can install TOSTER in R using: install.packages('TOSTER').
 Alternatively, you can download a spreadsheet to perform these calculations: https://osf.io/qzjaj/
 
 ANOVA_power: Superpower (version 0.1.2)  - Simulation function used to estimate power  
-https://shiny.ieis.tue.nl/anova_power/
+Alternatively, you can download a spreadsheet to perform these calculations: https://shiny.ieis.tue.nl/anova_power/
 
-
+The METAFOR Package: A Meta-Analysis Package for R. 
 
 
 ### The following software is used 
