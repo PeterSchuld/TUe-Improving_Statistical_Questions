@@ -13,22 +13,20 @@ R version 4.1.2 (2021-11-01) -- "Bird Hippie"
 
 
 ### The following packages (libraries) need to be installed
-TOSTER - Two One-Sided Tests (TOST) Equivalence Testing  
+     (1.) TOSTER - Two One-Sided Tests (TOST) Equivalence Testing  You can install TOSTER in R using: install.packages('TOSTER'). 
+          Alternatively, you can download a spreadsheet to perform these calculations: https://osf.io/qzjaj/
 
-You can install TOSTER in R using: install.packages('TOSTER'). 
-Alternatively, you can download a spreadsheet to perform these calculations: https://osf.io/qzjaj/
+     (2.) ANOVA_power: Superpower (version 0.1.2)  - Simulation function used to estimate power  
+          Alternatively, you can download a spreadsheet to perform these calculations: https://shiny.ieis.tue.nl/anova_power/
 
-ANOVA_power: Superpower (version 0.1.2)  - Simulation function used to estimate power  
-Alternatively, you can download a spreadsheet to perform these calculations: https://shiny.ieis.tue.nl/anova_power/
+     (3.) METAFOR Package: A Meta-Analysis Package for R. 
 
-METAFOR Package: A Meta-Analysis Package for R. 
-
-MBESS Package:   Methods for the Behavioral, Educational, and Social Sciences: An R package
+     (4.) MBESS Package:   Methods for the Behavioral, Educational, and Social Sciences: An R package
 
 
 ### The following software is used 
 G*Power - Conduct statistical power analysis and calculate probabilities as well as some more test cases  
-           ( https://download.cnet.com/G-Power/3000-2054_4-10647044.html )
+           https://download.cnet.com/G-Power/3000-2054_4-10647044.html 
 
 Likelihood Ratio for Mixed Results
 https://shiny.ieis.tue.nl/mixed_results_likelihood/
