@@ -28,6 +28,9 @@ The METAFOR Package: A Meta-Analysis Package for R.
 G*Power - Conduct statistical power analysis and calculate probabilities as well as some more test cases  
            ( https://download.cnet.com/G-Power/3000-2054_4-10647044.html )
 
+Likelihood Ratio for Mixed Results
+https://shiny.ieis.tue.nl/mixed_results_likelihood/
+
 ### Licence
 The work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. https://creativecommons.org/licenses/by-nc-sa/4.0/
 
