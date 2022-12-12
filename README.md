@@ -7,6 +7,9 @@ Daniël Lakens - Associate Professor in the Human-Technology interaction group a
 ### All the code is contained in R files
 This course examines many statistical concepts through simulations or calculations in the free software R. 
 
+### Licence
+The work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. https://creativecommons.org/licenses/by-nc-sa/4.0/
+
 
 ### Programming Language
 R version 4.1.2 (2021-11-01) -- "Bird Hippie"
@@ -23,20 +26,29 @@ R version 4.1.2 (2021-11-01) -- "Bird Hippie"
 
      (4.) MBESS Package:   Methods for the Behavioral, Educational, and Social Sciences: An R package
 
-### The following APPs are used
-statcheck 1.3.0 - A software that automatically extracts statistics from articles and recomputes their p-values, as long as statistics are reported 
-following guidelines from the American Psychological Association (APA).
-https://michelenuijten.shinyapps.io/statcheck-web/
+### The following Web-Applications are used
+#### statcheck 1.3.0   https://rpubs.com/michelenuijten/statcheckmanual
+- Automatically extracts statistics from reasearch articles and recomputes their p-values, as long as statistics are reported 
+following guidelines from the American Psychological Association (APA). Upload a PDF, word document, or HTML file.
+- Manual: https://michelenuijten.shinyapps.io/statcheck-web/
+
+#### Likelihood Ratio for Mixed Results  https://shiny.ieis.tue.nl/mixed_results_likelihood/
+- Shiny app accompanying: Lakens, D., & Etz, A. J. (2017). Too true to be bad: When sets of studies with significant and non-significant findings are probably true. Social Psychological and Personality Science. 
+
+
+
+#### Positive Predictive Value (PPV) of a p-value   https://shiny.ieis.tue.nl/PPV/
+- When does a significant p-value indicate a true effect?
+
+
 
 ### The following software is used 
-G*Power - Conduct statistical power analysis and calculate probabilities as well as some more test cases  
+#### G*Power 
+- Conduct statistical power analysis and calculate probabilities as well as some more test cases  
            https://download.cnet.com/G-Power/3000-2054_4-10647044.html 
 
-Likelihood Ratio for Mixed Results
-https://shiny.ieis.tue.nl/mixed_results_likelihood/
 
-### Licence
-The work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. https://creativecommons.org/licenses/by-nc-sa/4.0/
+
 
 ## Course Description
 This course aims to help you to ask better statistical questions when performing empirical research. We will discuss how to design informative studies, both when your predictions are correct, as when your predictions are wrong. We will question norms, and reflect on how we can improve research practices to ask more interesting questions. In practical hands on assignments you will learn techniques and tools that can be immediately implemented in your own research, such as thinking about the smallest effect size you are interested in, justifying your sample size, evaluate findings in the literature while keeping publication bias into account, performing a meta-analysis, and making your analyses computationally reproducible.
