@@ -17,12 +17,16 @@ R version 4.1.2 (2021-11-01) -- "Bird Hippie"
           Alternatively, you can download a spreadsheet to perform these calculations: https://osf.io/qzjaj/
 
      (2.) ANOVA_power: Superpower (version 0.1.2)  - Simulation function used to estimate power  
-          Alternatively, you can download a spreadsheet to perform these calculations: https://shiny.ieis.tue.nl/anova_power/
+          Alternatively, you can use a shiny app to perform these calculations: https://shiny.ieis.tue.nl/anova_power/
 
      (3.) METAFOR Package: A Meta-Analysis Package for R. 
 
      (4.) MBESS Package:   Methods for the Behavioral, Educational, and Social Sciences: An R package
 
+### The following APPs are used
+statcheck 1.3.0 - A software that automatically extracts statistics from articles and recomputes their p-values, as long as statistics are reported 
+following guidelines from the American Psychological Association (APA).
+https://michelenuijten.shinyapps.io/statcheck-web/
 
 ### The following software is used 
 G*Power - Conduct statistical power analysis and calculate probabilities as well as some more test cases  
