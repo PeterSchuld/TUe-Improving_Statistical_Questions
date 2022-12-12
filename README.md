@@ -7,6 +7,7 @@ Daniël Lakens - Associate Professor in the Human-Technology interaction group a
 ### All the code is contained in R files
 This course examines many statistical concepts through simulations or calculations in the free software R. 
 
+
 ### Licence
 The work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. https://creativecommons.org/licenses/by-nc-sa/4.0/
 
@@ -32,13 +33,19 @@ R version 4.1.2 (2021-11-01) -- "Bird Hippie"
 following guidelines from the American Psychological Association (APA). Upload a PDF, word document, or HTML file.
 - Manual: https://michelenuijten.shinyapps.io/statcheck-web/
 
+
+
 #### Likelihood Ratio for Mixed Results  https://shiny.ieis.tue.nl/mixed_results_likelihood/
 - Shiny app accompanying: Lakens, D., & Etz, A. J. (2017). Too true to be bad: When sets of studies with significant and non-significant findings are probably true. Social Psychological and Personality Science. 
 
 
 
+
+
 #### Positive Predictive Value (PPV) of a p-value   https://shiny.ieis.tue.nl/PPV/
 - When does a significant p-value indicate a true effect?
+
+
 
 
 
