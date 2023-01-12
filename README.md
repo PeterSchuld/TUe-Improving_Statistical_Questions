@@ -1,5 +1,5 @@
 # TUe-Improving_Statistical_Questions
-Eindhoven University of Technology (TU/e) course "Improving Your Statistical Questions" by Daniël Lakens on Coursera.
+Eindhoven University of Technology (TU/e) course "Improving Your Statistical Questions" by Daniël Lakens on Coursera (completed December 14, 2022).
 ### Instructor
 Daniël Lakens - Associate Professor in the Human-Technology interaction group at Eindhoven University of Technology (TU/e)
 
